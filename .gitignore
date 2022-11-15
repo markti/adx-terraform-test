@@ -1,0 +1,5 @@
+**/.debug.sh
+**/local.tfvars
+**/.terraform**
+**/**.tfstate*
+**/kube-config.yaml
